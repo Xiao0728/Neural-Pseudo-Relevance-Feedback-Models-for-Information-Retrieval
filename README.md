@@ -1,3 +1,3 @@
 # Neural-Pseudo-Relevance-Feedback-Models-for-Information-Retrieval
 
-This is my PhD thesis preprint version, the final version will be online soon.
+Link to the thesis is [here](https://theses.gla.ac.uk/84093/2/2023WangXiaoPhD.pdf)
